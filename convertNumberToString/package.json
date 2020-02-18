@@ -1,8 +1,8 @@
 {
-  "name": "square_every_digit",
+  "name": "convert_number_to_string",
   "version": "1.0.0",
   "dependencies": {},
-  "description": "Square Every Digit",
+  "description": "",
   "main": "dist/solution.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

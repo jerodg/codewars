@@ -1,6 +1,6 @@
 /// <reference path="/runner/typings/mocha/index.d.ts" />
 /// <reference path="/runner/typings/chai/index.d.ts" />
-import solution = require('./solution');
+import solution = require('./src/solution');
 import {assert} from "chai";
 
 

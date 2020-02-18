@@ -1,8 +1,8 @@
 {
-  "name": "square_every_digit",
+  "name": "reversed_strings",
   "version": "1.0.0",
   "dependencies": {},
-  "description": "Square Every Digit",
+  "description": "Reverse a string.",
   "main": "dist/solution.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,6 +20,5 @@
   "bugs": {
     "url": "https://github.com/jerodg/codewars/issues"
   },
-  "homepage": "https://github.com/jerodg/codewars#readme",
-  "type": "module"
+  "homepage": "https://github.com/jerodg/codewars#readme"
 }

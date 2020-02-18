@@ -1,6 +1,6 @@
 // See https://www.chaijs.com for how to use Chai.
 import {assert} from "chai";
-import {oddCount} from "./solution";
+import {oddCount} from "./src/solution";
 
 describe("example", () => {
     it("test", () => {

@@ -1,7 +1,25 @@
 {
-  "name": "countOddNumbersBelowN",
+  "name": "count_odd_numbers_below_n",
   "version": "1.0.0",
-  "dependencies": {
-    
-  }
+  "dependencies": {},
+  "description": "",
+  "main": "dist/solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerodg/codewars.git"
+  },
+  "keywords": [
+    "string",
+    "reverse"
+  ],
+  "author": "Jerod Gawne",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jerodg/codewars/issues"
+  },
+  "homepage": "https://github.com/jerodg/codewars#readme",
+  "type": "module"
 }
